@@ -135,7 +135,7 @@ body {
   word-wrap: break-word;
 }
 
-.chat-screen .messages .message .update {
+.update {
   text-align: center;
   padding: 10px;
   font-style: italic;
